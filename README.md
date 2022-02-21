@@ -1,3 +1,4 @@
-#VAGRANT
+# VAGRANT
 
-RUN: #vagrant plugin install vagrant-docker-compose# vagrant
+# $vagrant plugin install vagrant-docker-compose# vagrant
+# $vagrant up
